@@ -1,3 +1,12 @@
+"""
+Author: Henry Powell
+Institution: SoBots Lab, Institute of Neuroscience and Psychology, University
+of Glasgow, UK.
+
+CNN LSTM designed for human movement analysis. Achieved 71% accuracy on NTURGD+B when tested.
+"""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import os
